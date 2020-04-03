@@ -1,0 +1,207 @@
+.hr-approval-block {
+	
+}
+.hr-approval-block input {
+	background-color: transparent;
+	border: none;
+	color: #333;
+	font-size: 13px;
+}
+.hr-approval-block label {
+	color: #333;
+	font-size: 13px;
+	font-weight: 600;
+}
+.acc-btn {
+	background-color: transparent;
+    border: none;
+    outline: none;
+    color: #4e8440;
+    font-weight: 600;
+    font-size: 13px;
+}
+.rej-btn {
+	background-color: transparent;
+    border: none;
+    outline: none;
+    color: #e62d0f;
+    font-weight: 600;
+    font-size: 13px;
+}
+.hr-approval-block h5 {
+	font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    margin: 0;
+    margin-bottom: 1em;
+    padding: 5px 10px;
+    background: #0071bb;
+    color: #f7f7f7;
+}
+.date-pik {
+	width: 100%;
+    border: 1px solid #ccc;
+    padding: 5px 5px;
+    border-radius: 4px 0 0 4px;
+}
+._warn {
+    position: absolute;
+    left: 18px;
+    color: red;
+    opacity: .8;
+    line-height: 1.1;
+    font-size: 12px;
+    bottom: 5px !important;
+}
+._warn1 {
+	left: 0px !important;
+    display: inline;
+    bottom: -40px !important;
+}
+._warn_otp {
+	left: 0 !important;
+    top: 30px;
+}
+._warn_otp2 {
+	position: absolute;
+    left: 0;
+    color: red;
+    line-height: 1.4;
+}
+._warn_otp3 {
+	bottom: -10px !important;
+}
+._warn_otp4 {
+	bottom: -6px !important;
+}
+._warn_otp5 {
+	bottom: -30px !important;
+}
+._warn_otp6 {
+	bottom: -16px !important;
+}
+._warn_bottom26 {
+	bottom: -26px !important;
+}
+._warn_bottom30 {
+	bottom: -30px !important;
+}
+._warn_enter {
+	left: 0 !important;
+    top: 35px;
+}
+.pb-23 {
+	padding-bottom: 23px;
+}
+.panel-body-block {
+	padding: 15px;
+}
+.check-input {
+	float: left;
+	margin-right: 5px !important;
+}
+.text-center-p {
+	position: relative;
+}
+.checkbox-a {
+	position: absolute;
+    left: 20em;
+    top: 4px;
+    width: 75px;
+    line-height: 1.9;
+}
+.checkbox-a label {
+	color: #fff !important;
+	font-weight: 600;
+}
+.checkbox-aa {
+	position: absolute;
+	left: 30em;
+    width: 250px;
+    top: 4px;
+    line-height: 1.9;
+}
+.checkbox-aa label {
+	color: #fff !important;
+	font-weight: 600;
+}
+.mt-10 {
+	margin-top: 10px;
+}
+.final-btn {
+	width: 100%;
+    border-radius: 5px !important;
+    margin-top: 15px;
+}
+.enter_otp {
+	position: absolute;
+    left: -10.5em;
+    width: 133px;
+}
+.content-body-main {
+	background-color: #0070bb05;
+	margin-left: 260px !important;
+	padding: 15px;
+}
+.hr-approval-block label {
+	float: left;
+	width: 130px;
+	line-height: 1.3;
+}
+.full-w {
+	float: left;
+	width: 250px;
+}
+.green {
+	position: relative;
+    color: #333;
+    width: 15px;
+    height: 15px;
+}
+.green::after {
+	position: absolute;
+    content: '';
+    border: 2px solid #008000;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.red {
+	position: relative;
+    color: #333;
+    width: 15px;
+    height: 15px;
+}
+.red::after {
+	position: absolute;
+    content: '';
+    border: 2px solid #df1921;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.hr-approval-block span {
+    float: right;
+    margin-right: 1.3em;
+    margin-bottom: 0 !important;
+    margin-top: -6.5px !important;
+}
+.hr-approval-block .col-sm-6 {
+    height: 40px !important;
+}
+.hr-approval-block button {
+	border: none;
+    background-color: transparent;
+    color: #0071bb;
+    font-size: 18px;
+}
+.left-label {
+	float: left;
+	padding-right: 15px;
+}
+.getotp1 {
+	position: absolute;
+    left: -80px;
+    border: 1px solid #015190 !important;
+    background: #3c90c8 !important;
+}
